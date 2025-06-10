@@ -18,7 +18,7 @@
 // If you're unsure about the format, look at the sample tests.
 
 
-// My solution
+// My solution.
 
 function multiTable(number) {
   let table = '';
